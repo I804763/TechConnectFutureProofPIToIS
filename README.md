@@ -1,4 +1,4 @@
-# IN180 - Future-proof your SAP PI/PO investments with SAP Integration Suite
+# IN180 - Future-proof your SAP PI/PO investments with SAP Integration Suite 
 
 ## Description
 
