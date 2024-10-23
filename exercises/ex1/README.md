@@ -5,6 +5,15 @@ In this exercise, you will
 - get familiar with the landing page of the SAP Integration Suite UI 
 - get introduced to different capabilities and explore navigation across different aspects of SAP Integration Suite tooling.
 
+## Login to SAP Integration Suite tenant
+
+After completing these steps you will be able to see the SAP Integration Suite landing page and view the Migration Assessment and Cloud Integration capabilities offered as part of the SAP Integration Suite
+
+1. Click on the link https://teched23blr11.integrationsuite.cfapps.ap11.hana.ondemand.com/shell/home
+   
+2. Enter <b>User</b> as userXX (where XX is from 00 to 99) and Password as Welcome1 and Click on <b>Log On</b>.
+   <br>![](/exercises/ex1/images/Login.png)
+
 
 ## Explore SAP Integration Suite tooling
 
