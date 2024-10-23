@@ -17,7 +17,7 @@ After completing these steps you will be able to test the connection to your SAP
 
 1. Navigate to **Settings > Integrations**, under System, select J2E System to view the details. <br><be>
 
-<be>![](/exercises/ex3/images/TestPOSystem.png)
+<be>![](/exercises/ex3/images/Migration_Assesment_Test_Connection.png)
 
 For this exercise, the system setup is already done and you can click on Test Connection to check the connection to PO system. <br><br>
 
