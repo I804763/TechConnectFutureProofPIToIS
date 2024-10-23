@@ -11,7 +11,7 @@ After completing these steps you will be able to see the SAP Integration Suite l
 
 1. Click on the link https://teched2024-us01.integrationsuite.cfapps.us21.hana.ondemand.com/shell/home
    
-2. Enter <b>User</b> as userXX (where XX is from 00 to 99) and Password as Welcome1 and Click on <b>Log On</b>.
+2. Enter <b>User</b> as userXX (where XX is from 00 to 99) and Password as <b>Welcome1</b> and Click on <b>Log On</b>.
    <br>![](/exercises/ex1/images/Login.png)
 
 
