@@ -347,5 +347,5 @@ Here are few common pitfalls to avoid.
 
 Congratulations! You have successfully completed the Exercise **Deploy an API Artefact to connect to an S/4HANA Odata.**
 
-Many congratulations for participating and completing the Teched Jumpstart session **IN180 - Future-proof your SAP PI/PO investments with SAP Integration Suite.** 
+Many congratulations for participating and completing the session **Future-proof your SAP PI/PO investments with SAP Integration Suite.** 
 
