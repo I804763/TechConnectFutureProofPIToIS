@@ -27,7 +27,7 @@ After completing these steps you will be able to see the SAP Integration Suite l
 > 5. API Management API Access Client ID: <br>sb-2fbefac2-b4b1-4207-b612-55779f98040e!b23471|it-rt-teched2024-us02!b34</>
 > 6. API Management API Access Client Secret: <br>f62a2f8a-a0bb-4e98-b1cf-694406de5cba$YBhS4a-v0oADWfIc3Tc8rCNfL7VWknF1wNtrzDo-ymo=</>
 
-Enter User as USERXX (where XX is from 00 to 99) and Password as <b>Welcome1</b> and Click on <b>Log On</b>.
+Enter User as <b?USERXX</b> (where XX is from 00 to 99) and Password as <b>Welcome1</b> and Click on <b>Log On</b>.
    <br>![](/exercises/ex1/images/Login.png)
 
 ## Explore SAP Integration Suite tooling
