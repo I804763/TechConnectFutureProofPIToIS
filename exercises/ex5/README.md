@@ -111,6 +111,8 @@ Drag and add the 'Authorization' policy step after the 'Authentication' step and
 
 ![](/exercises/ex5/images/ex5_2_2.png)
 
+<!-- Commented for TechConnect Session 
+
 <br>Head back to the API artifact and click on (+) to add a flow step after the 'Authorization' step.
 
 ![](/exercises/ex5/images/ex5_2_base.png)
@@ -135,6 +137,8 @@ This identifier needs to resolve to a value that is unique to the caller, hence 
 Though we don't cover this explicitly in the exercise, during the Edge Integration Cell setup time, we did enable the option to retain the client IP in the request header during Istio configuration. Look at the picture below to see how the configuration screen for the EIC node stands.
 
 ![](/exercises/ex5/images/ex5_2_4_4.png)
+
+-->
 
 <br>Save and deploy the API.
 
