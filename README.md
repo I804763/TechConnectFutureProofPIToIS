@@ -41,7 +41,10 @@ In case you do not have an existing user account (S/P/I/D/C User), follow the st
 
 Here is a summary of the exercises we will be covering in this hands-on session.
 
+<!--
 - [Prerequisite - Access the Tenant Booker app](exercises/prerequisites/)
+-->
+
 - [Getting Started - An overview of SAP Integration Suite](exercises/ex0/)
 - [Exercise 1 - Access and explore SAP Integration Suite](exercises/ex1/)
 - [Exercise 2 - SAP Process Integration Walkthrough](exercises/ex2/)
