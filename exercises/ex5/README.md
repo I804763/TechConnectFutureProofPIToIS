@@ -210,9 +210,13 @@ We will continue using Bruno for testing, the tool used in ex4 as well. Create a
 
 ![](/exercises/ex5/images/ex5_1_12.png)
 
+<!-- Commented for TechConnect
 <br>Of course, we need to head back to the tenant booker app and now copy the right set of client credentials labeled 'API Management API Access...'
 
 ![](/exercises/ex5/images/tenantbooker_2.png)
+-->
+
+<br>Of course, refer back to the introduction section for the keys and copy the credentials labeled as Process Integration Clinet ID and Prodess Integration Client Secret'
 
 <br> Hit your testing client again, only this time with the right set of credentials. The scope (APIArtefactUser) attached to the access token will indicate so. 
 
