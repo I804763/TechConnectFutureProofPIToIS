@@ -226,6 +226,9 @@ We will continue using Bruno for testing, the tool used in ex4 as well. Create a
 
 ![](/exercises/ex5/images/ex5_1_14.png)
 
+
+<!-- Commented for TechEd
+
 > [!NOTE]
 > A word of caution though. Some testing clients (e.g. Postman) could probably report a strange client-side Decompression failed error. The reason for the error is that the client tool was unable to match the content encoding to what it expects. You can see that Postman injects `gzip, deflate, br` within the `Accept-Encoding` header.
 > 
@@ -331,6 +334,8 @@ You should see a failure message coming from the API Validation step.
 <br> Strip off `br` from the header and make a new request. You should see the call getting successfully executed. 
 
 ![](/exercises/ex5/images/ex5_2_25.png)
+
+End of Comment for TechConnect  -->
 
 ## Troubleshooting tips
 
