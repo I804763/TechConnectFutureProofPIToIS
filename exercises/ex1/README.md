@@ -10,7 +10,7 @@ In this exercise, you will
 After completing these steps you will be able to see the SAP Integration Suite landing page and view the Migration Assessment and Cloud Integration capabilities offered as part of the SAP Integration Suite
 
 > [!NOTE]
-> <BR>For user01-UWER45</>
+> <br>For USER01-USER45</>
 > 1. Click on the link https://teched2024-us01.integrationsuite.cfapps.us21.hana.ondemand.com/shell/home
 > 2. Process Integration Client ID: <br>sb-a8427d4e-c96e-49c7-b46b-0c2044abbb96!b27512|it-rt-teched2024-us01!b46</>
 > 3. Process Integration Client Secret: <br>429f0e43-1a70-4806-8dc2-81b074b2c27a$xI-cB39sZgxuvEGYGV5yNF3fyQnJ-st-HFggFyyiIL8=</>
@@ -19,7 +19,7 @@ After completing these steps you will be able to see the SAP Integration Suite l
 > 6. API Management API Access Client Secret: <br>56580e85-5bbd-4fc3-9e09-bee5f5f66b22$NNVyGGXwFdV0NLBXB3EHN7vwro39m2sRo3y3AteKLm0=</>
 
 > [!NOTE]
-> <BR>For USER46-USER99</>
+> <br>For USER46-USER99</>
 > 1. Click on the link https://teched2024-us02.integrationsuite.cfapps.us20.hana.ondemand.com/shell/home
 > 2. Process Integration Client ID: <br>sb-8c6c4c93-e22d-4fa7-b68c-f493fb9215f0!b23471|it-rt-teched2024-us02!b34</>
 > 3. Process Integration Client Secret: <br>beaf470e-9ab7-4c01-8789-784dfcdd780a$ZZ0GdH71M9y9cZxDlAYpLHZEQ_W3fpgek9W1ckUKOPA=</>
