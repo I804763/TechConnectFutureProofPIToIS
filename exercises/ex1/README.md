@@ -12,7 +12,7 @@ After completing these steps you will be able to see the SAP Integration Suite l
 > [!NOTE]
 > <b>For USER01-USER45</b>
 > 1. Click on the link https://teched2024-us01.integrationsuite.cfapps.us21.hana.ondemand.com/shell/home
-> <b>Please copy these values into Notepad as it would ne needed later</b>
+> - <b>Please copy these values into Notepad as it would ne needed later</b>
 > 3. Process Integration Client ID: <br>sb-a8427d4e-c96e-49c7-b46b-0c2044abbb96!b27512|it-rt-teched2024-us01!b46</>
 > 4. Process Integration Client Secret: <br>429f0e43-1a70-4806-8dc2-81b074b2c27a$xI-cB39sZgxuvEGYGV5yNF3fyQnJ-st-HFggFyyiIL8=</>
 > 5. Token URL: <br>https://teched2024-us01.authentication.us21.hana.ondemand.com/oauth/token</>
@@ -22,7 +22,7 @@ After completing these steps you will be able to see the SAP Integration Suite l
 > [!NOTE]
 > <b>For USER46-USER99</b>
 > 1. Click on the link https://teched2024-us02.integrationsuite.cfapps.us20.hana.ondemand.com/shell/home
-> <b>Please copy these values into Notepad as it would ne needed later</b>
+> - <b>Please copy these values into Notepad as it would ne needed later</b>
 > 3. Process Integration Client ID: <br>sb-8c6c4c93-e22d-4fa7-b68c-f493fb9215f0!b23471|it-rt-teched2024-us02!b34</>
 > 4. Process Integration Client Secret: <br>beaf470e-9ab7-4c01-8789-784dfcdd780a$ZZ0GdH71M9y9cZxDlAYpLHZEQ_W3fpgek9W1ckUKOPA=</>
 > 5. Token URL: <br>https://teched2024-us02.authentication.us20.hana.ondemand.com/oauth/token</>
