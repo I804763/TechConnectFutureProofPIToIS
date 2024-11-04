@@ -24,7 +24,7 @@ As seen in the screenshot, we will use the standard GWSAMPLE_BASIC Service. You 
 ## Create an API Artifact
 In this section, let us head back to the Integration Suite UI and deploy the 'API' artifact.
 
-Go to the 'Integrations and API' section in the 'Design' tab. Get into the Package you previously created in Exercise 4. Go to the 'Artifacts' sub-tab and click 'Edit'.
+Go to the <b>'Integrations and API'<b/> section in the <b>'Design'<b/> tab. Get into the Package you previously created in Exercise 4. Go to the <b>'Artifacts'<b/> sub-tab and click <b>'Edit'<b/>.
 
 ![](/exercises/ex5/images/ex5_1.png)
 
