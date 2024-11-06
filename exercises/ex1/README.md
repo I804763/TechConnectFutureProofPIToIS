@@ -26,7 +26,7 @@ After completing these steps you will be able to see the SAP Integration Suite l
 > 2. Process Integration Client ID: <b>sb-8c6c4c93-e22d-4fa7-b68c-f493fb9215f0!b23471|it-rt-teched2024-us02!b34</b>
 > 3. Process Integration Client Secret: <b>beaf470e-9ab7-4c01-8789-784dfcdd780a$ZZ0GdH71M9y9cZxDlAYpLHZEQ_W3fpgek9W1ckUKOPA=</b>
 > 4. Token URL: <b>https://teched2024-us02.authentication.us20.hana.ondemand.com/oauth/token</b>
-> 5. API Management API Access Client ID: <b>sb-2fbefac2-b4b1-4207-b612-55779f98040e!b23471|it-rt-teched2024-us02!b34</>
+> 5. API Management API Access Client ID: <b>sb-2fbefac2-b4b1-4207-b612-55779f98040e!b23471|it-rt-teched2024-us02!b34</b>
 > 6. API Management API Access Client Secret: <b>f62a2f8a-a0bb-4e98-b1cf-694406de5cba$YBhS4a-v0oADWfIc3Tc8rCNfL7VWknF1wNtrzDo-ymo=</b>
 
 Enter User as <b>USERXX</b> (where XX is from 00 to 99) and Password as <b>Welcome1</b> and Click on <b>Log On</b>.
