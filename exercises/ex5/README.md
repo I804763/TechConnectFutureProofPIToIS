@@ -174,9 +174,9 @@ We will continue using Bruno for testing, the tool used in ex4 as well. Create a
 
 ![](/exercises/ex5/images/ex5_1_4.png)
 
-<br> Now refer back to the TenantBooker app and the credentials we did save earlier. Copy the Token URL and client credentials for the 'Process Integration' section.
+<br> Now refer back to the credentials we did save earlier. Copy the Token URL and client credentials for the 'Process Integration' section.
 
-![](/exercises/ex5/images/tenantbooker_1.png)
+<!-- ![](/exercises/ex5/images/tenantbooker_1.png) -->
 
 <br> Select the 'Client Credentials' grant type and copy the token URL and client credentials in the respective fields. Invoke the 'Get Access Token' button.
 
