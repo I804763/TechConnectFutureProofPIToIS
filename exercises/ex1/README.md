@@ -13,21 +13,21 @@ After completing these steps you will be able to see the SAP Integration Suite l
 > <b>For USER01-USER45</b>
 > 1. Click on the link https://teched2024-us01.integrationsuite.cfapps.us21.hana.ondemand.com/shell/home
 > - <b>Please copy these values into Notepad as it would ne needed later</b>
-> 2. Process Integration Client ID: <br>sb-a8427d4e-c96e-49c7-b46b-0c2044abbb96!b27512|it-rt-teched2024-us01!b46</>
-> 3. Process Integration Client Secret: <br>429f0e43-1a70-4806-8dc2-81b074b2c27a$xI-cB39sZgxuvEGYGV5yNF3fyQnJ-st-HFggFyyiIL8=</>
-> 4. Token URL: <br>https://teched2024-us01.authentication.us21.hana.ondemand.com/oauth/token</>
-> 5. API Management API Access Client ID: <br>sb-231d16df-5248-49cd-ae22-ae1ede5adae2!b27512|it-rt-teched2024-us01!b46</>
-> 6. API Management API Access Client Secret: <br>56580e85-5bbd-4fc3-9e09-bee5f5f66b22$NNVyGGXwFdV0NLBXB3EHN7vwro39m2sRo3y3AteKLm0=</>
+> 2. Process Integration Client ID: <b>sb-a8427d4e-c96e-49c7-b46b-0c2044abbb96!b27512|it-rt-teched2024-us01!b46</b>
+> 3. Process Integration Client Secret: <b>429f0e43-1a70-4806-8dc2-81b074b2c27a$xI-cB39sZgxuvEGYGV5yNF3fyQnJ-st-HFggFyyiIL8=</b>
+> 4. Token URL: <b>https://teched2024-us01.authentication.us21.hana.ondemand.com/oauth/token</b>
+> 5. API Management API Access Client ID: <b>sb-231d16df-5248-49cd-ae22-ae1ede5adae2!b27512|it-rt-teched2024-us01!b46</b>
+> 6. API Management API Access Client Secret: <b>56580e85-5bbd-4fc3-9e09-bee5f5f66b22$NNVyGGXwFdV0NLBXB3EHN7vwro39m2sRo3y3AteKLm0=</b>
 
 > [!NOTE]
 > <b>For USER46-USER99</b>
 > 1. Click on the link https://teched2024-us02.integrationsuite.cfapps.us20.hana.ondemand.com/shell/home
 > - <b>Please copy these values into Notepad as it would ne needed later</b>
-> 2. Process Integration Client ID: <br>sb-8c6c4c93-e22d-4fa7-b68c-f493fb9215f0!b23471|it-rt-teched2024-us02!b34</>
-> 3. Process Integration Client Secret: <br>beaf470e-9ab7-4c01-8789-784dfcdd780a$ZZ0GdH71M9y9cZxDlAYpLHZEQ_W3fpgek9W1ckUKOPA=</>
-> 4. Token URL: <br>https://teched2024-us02.authentication.us20.hana.ondemand.com/oauth/token</>
-> 5. API Management API Access Client ID: <br>sb-2fbefac2-b4b1-4207-b612-55779f98040e!b23471|it-rt-teched2024-us02!b34</>
-> 6. API Management API Access Client Secret: <br>f62a2f8a-a0bb-4e98-b1cf-694406de5cba$YBhS4a-v0oADWfIc3Tc8rCNfL7VWknF1wNtrzDo-ymo=</>
+> 2. Process Integration Client ID: <b>sb-8c6c4c93-e22d-4fa7-b68c-f493fb9215f0!b23471|it-rt-teched2024-us02!b34</b>
+> 3. Process Integration Client Secret: <b>beaf470e-9ab7-4c01-8789-784dfcdd780a$ZZ0GdH71M9y9cZxDlAYpLHZEQ_W3fpgek9W1ckUKOPA=</b>
+> 4. Token URL: <b>https://teched2024-us02.authentication.us20.hana.ondemand.com/oauth/token</b>
+> 5. API Management API Access Client ID: <b>sb-2fbefac2-b4b1-4207-b612-55779f98040e!b23471|it-rt-teched2024-us02!b34</>
+> 6. API Management API Access Client Secret: <b>f62a2f8a-a0bb-4e98-b1cf-694406de5cba$YBhS4a-v0oADWfIc3Tc8rCNfL7VWknF1wNtrzDo-ymo=</b>
 
 Enter User as <b>USERXX</b> (where XX is from 00 to 99) and Password as <b>Welcome1</b> and Click on <b>Log On</b>.
    <br>![](/exercises/ex1/images/Login.png)
