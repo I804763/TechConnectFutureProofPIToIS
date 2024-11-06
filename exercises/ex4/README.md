@@ -148,7 +148,7 @@ Having completed these steps, you are now ready to test the interface. To do thi
 </soapenv:Envelope>
 ```
 
-7. Switch to tab **Auth** and choose **OAuth 2.0**. Grant Type must be set to **Client Credentials**. These are the credentials from Exercise 1 which was asked to be copied to the notepad earlier.
+7. Switch to tab **Auth** and choose **OAuth 2.0**. Grant Type must be set to **Client Credentials**. These are the authentication details from Exercise 1 which was asked to be copied to the notepad earlier. Past them and press **Get Access Token**
 
 <!-- The authentication details can be found in the booker application. Past them and press **Get Access Token**. -->
 
