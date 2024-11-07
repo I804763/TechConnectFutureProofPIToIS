@@ -148,7 +148,7 @@ Though we don't cover this explicitly in the exercise, during the Edge Integrati
 
 <br>Status of the artifact should be  STARTED.
 
-![](/exercises/ex5/images/ex5_21.png)
+![](/exercises/ex5/images/API_Policy_Authorization.png)
 
 <br>Navigate back to the Monitor -> Integrations and APIs. Select **Manage Integration Content** tile and then Select Runtime as **Edge Integration Cell**. Your deployed Integration flow should be in the 'started' state. Copy the API Endpoint URL.
 
