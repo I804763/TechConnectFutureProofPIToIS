@@ -82,7 +82,7 @@ Assess your integration scenarios using the information from the data extraction
 
 <be>![](/exercises/ex3/images/ScenarioEvaluationDetails.png)
 
-Note: You usually run a new evaluation request for a new data extraction whereas you run a new evaluation run whenever the assessment rules have been changed. <br><br>
+Note: You usually run a new evaluation request for a new data extraction whereas you run a new evaluation run whenever the assessment rules have been changed. A new evaluation run is when we trigger analysis on an existing evaluation request <br><br>
 
 4. The new request appears in the list of scenario evaluation requests in Status In Progress. <br><be>
 
