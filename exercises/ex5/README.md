@@ -216,7 +216,7 @@ We will continue using Bruno for testing, the tool used in ex4 as well. Create a
 ![](/exercises/ex5/images/tenantbooker_2.png)
 -->
 
-<br>Of course, refer back to the introduction section for the keys and copy the credentials labeled as Process Integration Clinet ID and Prodess Integration Client Secret'
+<br>Of course, refer back to the introduction section for the keys and copy the credentials labeled as <b>API Management API Access Client Secret</b> and <b>API Management API Access Client ID</b>
 
 <br> Hit your testing client again, only this time with the right set of credentials. The scope (APIArtefactUser) attached to the access token will indicate so. 
 
