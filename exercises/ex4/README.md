@@ -156,7 +156,7 @@ Having completed these steps, you are now ready to test the interface. To do thi
 <!-- <br>![image](/exercises/ex4/images/Auth_Booker.png)  -->
 
 
-8. The response contains the Access Token. **Copy** the **"access_token"** value to the clipboard as this is required in the next step for authentication.
+8. The response contains the Access Token. **Copy** the **"access_token"** value to the clipboard as this is required in the next step for authentication. Swith the HTTP method to POST
 
 <br>![image](/exercises/ex4/images/OAuthToken.png) 
 
