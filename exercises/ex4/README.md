@@ -122,7 +122,7 @@ Having completed these steps, you are now ready to test the interface. To do thi
 
 <br>![image](/exercises/ex4/images/New_Request.png)  
 
-4. Provide a Name, e.g. **Exercise 4 - SOAP to SOAP scenario** and past the endpoint URL noted in previous exercise. Press **Create**.
+4. Provide a Name, e.g. **Exercise 4 - SOAP to SOAP scenario** and paste the endpoint URL noted in previous exercise. Press **Create**.
 
 <br>![image](/exercises/ex4/images/New_Request2.png)  
 
